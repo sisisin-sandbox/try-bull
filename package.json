@@ -1,0 +1,14 @@
+{
+  "name": "try-bull",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sisisin-sandbox/try-bull.git",
+  "author": "sisisin <azsisisin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bullmq": "^1.46.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
